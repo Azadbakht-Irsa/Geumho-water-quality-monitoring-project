@@ -28,4 +28,4 @@ Data comes from Korea's national water quality monitoring system, as yearly Exce
 Install with: `pip install pandas matplotlib openpyxl`
 
 # Note
-Osan Stream 2 is located in Gyeonggi Province and is not part of the Geumho River basin. It was used only to test the data-cleaning pipeline. The main analysis is based on station GH3.
+Osan Stream 2 (오산천2) is a small stream in Yongin, Gyeonggi Province. It is a tributary of the Gyeongancheon River in the Han River basin, not part of the Geumho River basin. It was used to build and test the data-cleaning pipeline, and as a comparison station from a different region. The main analysis is based on station GH3.
